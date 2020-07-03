@@ -1,7 +1,4 @@
-* {
-	box-sizing: border-box;
-}
-
+* {box-sizing: border-box;}
 body {
 	font-family: 'Open Sans', sans-serif;
 	background: #f1f1f1;
@@ -44,7 +41,7 @@ header h1 {
 	background: #fff;
 	box-shadow: 0 4px 20px rgba(194,194,194,.25);
 	border-radius: 5px;
-
+	grid-row: span 3;
 	display: grid;
 }
 
