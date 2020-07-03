@@ -35,7 +35,7 @@ header h1 {
 .publicaciones {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	
+	grid-template-rows: repeat(1, auto 1fr auto);
 	gap: 20px;
 }
 
