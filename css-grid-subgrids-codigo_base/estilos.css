@@ -43,7 +43,7 @@ header h1 {
 	border-radius: 5px;
 	display: grid;
 	grid-row: span 3;
-	grid-template-rows: subgrid;
+	grid-template-rows: auto 1fr auto;
 }
 
 .publicacion .titulo {
