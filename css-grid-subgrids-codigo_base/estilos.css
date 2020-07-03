@@ -51,12 +51,13 @@ header h1 {
 	color: #C00000;
 	font-size: 32px;
 	margin: 0;
-	
+	grid-column: span 3;
 }
 
 .publicacion .texto {
 	line-height: 28px;
 	color: #1E1E1E;
+	grid-column: span 3;
 }
 
 .publicacion .botones {
