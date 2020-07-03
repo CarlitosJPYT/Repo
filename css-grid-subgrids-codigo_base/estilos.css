@@ -61,6 +61,8 @@ header h1 {
 
 .publicacion .botones {
 	grid-column: span 3;
+	display: grid;
+	grid-template-columns: subgrid;
 }
 
 .publicacion button {
