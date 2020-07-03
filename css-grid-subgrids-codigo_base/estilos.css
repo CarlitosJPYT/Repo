@@ -56,7 +56,7 @@ header h1 {
 .publicacion .texto {
 	line-height: 28px;
 	color: #1E1E1E;
-	
+	margin: 0;
 }
 
 .publicacion .botones {
